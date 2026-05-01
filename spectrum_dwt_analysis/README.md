@@ -1,4 +1,4 @@
-# Spectrum & DWT Analysis
+# Spectrum & DWT Analysis 
 
 頻譜特徵分析與離散小波轉換（DWT）分析的 Jupyter Notebooks。
 
